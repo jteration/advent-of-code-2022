@@ -1,6 +1,4 @@
 const fs = require("fs");
-const { get } = require("http");
-
 const input = fs.readFileSync("./7/input.txt").toString().split("\n");
 
 let currentDir = "";
