@@ -59,8 +59,8 @@ function partOne() {
   }
   
   console.log(numTVisited);
-  // 6142
-  // 6175
+  // 6142 - Too low
+  // 6175 - Just right
 }
 
 function partTwo() {
@@ -159,7 +159,7 @@ function partTwo() {
   console.log(numTVisited);
   // 651 - Too low
   // 1163 - Too low
-  // 2578
+  // 2578 - Just right
 }
 
 partOne();
