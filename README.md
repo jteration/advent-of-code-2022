@@ -1,0 +1,1 @@
+My javascript code for advent of code 2022
